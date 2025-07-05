@@ -106,9 +106,9 @@ Enable Firebase Cloud Messaging (FCM) for notifications
 
 🤝 Farmer social forum & live expert chat
 
+![image](https://github.com/user-attachments/assets/7bae12a4-febf-41f1-a130-ef95aa003b85)
 
-![image](https://github.com/user-attachments/assets/0be16640-0ec5-4656-83df-1fb614f07c0b)
-
+ 
 
 📝 License
 This project is licensed under the MIT License – see LICENSE for details.
